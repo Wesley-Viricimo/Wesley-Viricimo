@@ -1,6 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
+## Hello World! I'am Wesley Viricimo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Wesley+Viricimo;Tenho+25+anos;Sou+de+Marília/SP;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+- 🖥️ Currently studying web development with javascript
+- 🚀 Aiming to become a excellent full-stack programmer
+- ❤️ Coding its my passion
+
+<br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wesley-viricimo&bg_color=0b0c23&color=4682B4&line=362bda&point=5e5a5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -9,27 +13,40 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-viricimo&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
-<a href="https://www.facebook.com/wesley.viricimo" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 30px"</a>
-<a href="https://www.linkedin.com/in/wesley-viricimo-a3b15a202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div><br/>
 
- ### Habilidades Principais:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;<br/><br/>
+## Main Stacks
+ <div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-### Estudo no momento:
+</div>
+<br>
+  
+## Learning
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
-![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+<div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;"><br>
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+<img height="50" width="100" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img height="50" width="100" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
+</div>
+<br>
 
-<br/>
+## Contact Me
+ <br>  
+ <div> 
+  <a href="https://www.linkedin.com/in/wesley-viricimo-a3b15a202/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
+<br>
 
-Apaixonado por tecnologia, e buscando melhorar a cada dia.
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+I believe that with good ideas and willpower it is possible to transform the world!
