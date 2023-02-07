@@ -35,8 +35,8 @@
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-<img height="50" width="100" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img height="50" width="100" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
+<img height="50" width="110" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img height="50" width="120" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
 </div>
 <br>
 
