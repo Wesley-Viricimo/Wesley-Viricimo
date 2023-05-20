@@ -1,6 +1,6 @@
 ## Hello World! I'am Wesley Viricimo
 
-- 🖥️ Currently studying web development with javascript
+- 🖥️ Currently studying web development with java and javascript
 - 🚀 Aiming to become a excellent full-stack programmer
 - ❤️ Coding its my passion
 
