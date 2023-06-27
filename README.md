@@ -6,8 +6,6 @@
 
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wesley-viricimo&bg_color=0b0c23&color=4682B4&line=362bda&point=5e5a5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wesley-viricimo&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Wesley Viricimo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-viricimo&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
