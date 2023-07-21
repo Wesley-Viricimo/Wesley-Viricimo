@@ -16,7 +16,7 @@
 | :-: | :-: |
 
 ## Main Stacks
-[![Main Stacks](https://skillicons.dev/icons?i=java,sqlite,mysql,androidstudio,idea,vscode)](https://skillicons.dev)
+[![Main Stacks](https://skillicons.dev/icons?i=java,sqlite,mysql,postgres,androidstudio,idea,vscode)](https://skillicons.dev)
 <br>
   
 ## Learning
@@ -24,11 +24,6 @@
 <br>
 
 ## Contact Me
- <div> 
-  <a href="https://www.linkedin.com/in/wesley-viricimo-a3b15a202/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
-<br>
+[![Contact Me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wesley-viricimo-a3b15a202/)
 
 I believe that with good ideas and willpower it is possible to transform the world!
