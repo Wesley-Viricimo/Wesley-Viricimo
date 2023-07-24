@@ -16,11 +16,11 @@
 | :-: | :-: |
 
 ## Main Stacks
-[![Main Stacks](https://skillicons.dev/icons?i=java,sqlite,mysql,postgres,androidstudio,idea,vscode)](https://skillicons.dev)
+![Main Stacks](https://skillicons.dev/icons?i=java,sqlite,mysql,postgres,androidstudio,idea,vscode)
 <br>
   
 ## Learning
-[![Learning](https://skillicons.dev/icons?i=spring,angular,mongodb,js,ts,html,css)](https://skillicons.dev)
+![Learning](https://skillicons.dev/icons?i=spring,angular,mongodb,js,ts,html,css)
 <br>
 
 ## Contact Me
