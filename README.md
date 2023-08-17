@@ -20,7 +20,7 @@
 <br>
   
 ## Learning
-![Learning](https://skillicons.dev/icons?i=spring,angular,mongodb,js,ts,html,css)
+![Learning](https://skillicons.dev/icons?i=spring,angular,js,ts,html,css)
 <br>
 
 ## Contact Me
