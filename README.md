@@ -1,6 +1,6 @@
 ## Hello World! I'am Wesley Viricimo
 
-- 🖥️ Currently studying android and web development with java and typescript
+- 🖥️ Currently studying android development with java and kotlin
 - 🚀 Aiming to become a excellent full-stack programmer
 - ❤️ Coding its my passion
 
