@@ -16,7 +16,7 @@
 | :-: | :-: |
 
 ## Main Stacks
-![Main Stacks](https://skillicons.dev/icons?i=java,sqlite,mysql,postgres,androidstudio,idea,vscode)
+![Main Stacks](https://skillicons.dev/icons?i=java,kotlin,sqlite,mysql,postgres,androidstudio,idea,vscode)
 <br>
   
 ## Learning
