@@ -1,6 +1,6 @@
 ## Hello World! I'am Wesley Viricimo
 
-- 🖥️ Currently studying android development with java and kotlin
+- 🖥️ Currently studying web development with javascript and typescript
 - 🚀 Aiming to become a excellent full-stack programmer
 - ❤️ Coding its my passion
 
@@ -16,11 +16,7 @@
 | :-: | :-: |
 
 ## Main Stacks
-![Main Stacks](https://skillicons.dev/icons?i=java,kotlin,sqlite,mysql,postgres,androidstudio,idea,vscode)
-<br>
-  
-## Learning
-![Learning](https://skillicons.dev/icons?i=spring,angular,js,ts,html,css)
+![Main Stacks](https://skillicons.dev/icons?i=angular,js,ts,html,css,nest,mysql,rust,vscode)
 <br>
 
 ## Contact Me
